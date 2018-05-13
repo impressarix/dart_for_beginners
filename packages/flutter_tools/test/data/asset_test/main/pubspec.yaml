@@ -1,0 +1,8 @@
+name: main
+description: A test project that has a package with a font as a dependency.
+
+dependencies:
+  font:
+    path: ../font
+
+# PUBSPEC CHECKSUM: b9b8
